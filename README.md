@@ -2,7 +2,7 @@
 - 👀 I’m interested C, C#, Web development(HTML, CSS, Javascript), React, Python, SQL, Cisco networking
 - 🌱 I’m currently learning C & C# 
 - 💞️ I’m looking to collaborate on C# projects
-- 📫 How to reach me 
+- 📫 Instagram & Twitter: Patzer_Variation 
 
 <!---
 Sosburg/Sosburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
