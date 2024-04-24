@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sosburg
-- 👀 I’m interested C, C#, Web development(HTML, CSS, Javascript), React, Python, SQL, Cisco networking
+- 👀 I’m interested C, C#, Web development(HTML, CSS, Javascript),Python, & SQL
 - 🌱 I’m currently learning C & C# 
 - 💞️ I’m looking to collaborate on C# projects
 - 📫 Instagram & Twitter: Patzer_Variation 
