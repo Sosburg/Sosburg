@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sosburg
-- 👀 I’m interested in C, C#, Web development(HTML, CSS, Javascript),Python, & SQL
-- 🌱 I’m currently learning C & Python
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in C, C#, Web development (HTML, CSS, Javascript),Python, & SQL
+- 🌱 I’m currently learning C# & Javascript
+- 💞️ I’m looking to collaborate on Javascript projects
 - 📫 Instagram & Twitter: Patzer_Variation 
 
 <!---
